@@ -1,6 +1,7 @@
 # Hi, I'm JimmyQrg
 
 I make ubg sites and games and unblockers.
+<img src="banner.png" alt="JimmyQrg Banner" width="600">
 
 ## What I'm working on
 
