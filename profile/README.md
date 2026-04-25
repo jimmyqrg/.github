@@ -2,7 +2,7 @@
 
 I make ubg sites and games and unblockers.
 
-<img src="banner.png" alt="JimmyQrg Banner" width="600">
+<img src="https://cdn.jsdelivr.net/gh/jimmyqrg/.github@main/profile/banner.png" alt="JimmyQrg Banner" width="600">
 
 ## What I'm working on
 
